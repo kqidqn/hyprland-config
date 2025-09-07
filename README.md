@@ -6,7 +6,7 @@ Go to config directory.
 ```
 cd .config/
 ```
-Copy directory in .config/
+Copy repository in .config/
 ```
 git clone https://github.com/kqidqn/hyprland-config
 ```
